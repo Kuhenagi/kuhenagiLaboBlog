@@ -3,7 +3,8 @@ body {
 }
 div.header {
     height: 480px;
-    background-color: rgb(0, 0, 114);
+    width: 100%;
+    background: linear-gradient(to right, #ffffff 0%, #009efd 100%);
 }
 .sawarabi { font-family: "Sawarabi Mincho"; }
 a.table {
@@ -17,6 +18,7 @@ a.table {
     color: rgb(106, 106, 106);
 }
 div.maintext {
+    width: 100%;
     border-width: 40px;
     border-style:groove;
     border-color: rgb(134, 134, 134);
