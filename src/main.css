@@ -4,7 +4,7 @@ body {
 div.header {
     height: 480px;
     width: 100%;
-    background: linear-gradient(to right, #ffffff 0%, #009efd 100%);
+    background: linear-gradient(to bottom, #ffffff 0%, #009efd 100%);
 }
 .sawarabi { font-family: "Sawarabi Mincho"; }
 a.table {
