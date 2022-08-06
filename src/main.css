@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+}
+div.header {
+    height: 480px;
+    background-color: rgb(0, 0, 114);
+}
+.sawarabi { font-family: "Sawarabi Mincho"; }
+a.table {
+  text-decoration: none;
+  color: aliceblue;
+} 
+.link {
+    color: black;
+}
+.link:hover {
+    color: rgb(106, 106, 106);
+}
+div.maintext {
+    border-width: 40px;
+    border-style:groove;
+    border-color: rgb(134, 134, 134);
+    background-color: rgb(60, 60, 60);
+    color: azure;
+}
+div.table {
+    border-width: 10px;
+    border-style:groove;
+    border-color: rgb(134, 134, 134);
+    background-color: rgb(60, 60, 60);
+    color: azure;
+}
+maintext {
+    font-family: "Sawarabi Mincho";
+    font-size: 32px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
